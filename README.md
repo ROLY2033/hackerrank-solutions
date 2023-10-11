@@ -1,5 +1,5 @@
 # hackerrank-solutions
-I'm solved exercises with language programming JAVA or PHP
+I'm solved exercises with language programming JAVA others languajes
 
 
 
